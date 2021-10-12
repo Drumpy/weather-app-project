@@ -3,7 +3,7 @@ Proyecto destinado a practicar y colaborar en equipo con miembros de JAP (Plan C
 
 ## 👩‍💻👨‍💻 Team
 - Fabricio Barrios
--
+- Diego Do Santos
 -
 -
 -
