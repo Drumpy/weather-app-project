@@ -1,0 +1,15 @@
+{
+  "name": "weather-app-project",
+  "version": "1.0.0",
+  "description": "Proyecto destinado a practicar y colaborar en equipo con miembros de JAP (Plan Ceibal)",
+  "scripts": {},
+  "keywords": [
+    "weather",
+    "jap",
+    "practice",
+    "app"
+  ],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/Drumpy/weather-app-project#readme"
+}
